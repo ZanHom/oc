@@ -1,0 +1,36 @@
+payload:
+  - 'tencent.com'
+  - '+.tencent.com'
+  - 'qcloud.com'
+  - '+.qcloud.com'
+  - 'qq.com'
+  - '+.qq.com'
+  - 'weixin.com'
+  - '+.weixin.com'
+  - 'tingyun.com'
+  - '+.tingyun.com'
+  - 'php.cn'
+  - '+.php.cn'
+  - 'douyin.com'
+  - '+.douyin.com'
+  - 'origin.com'
+  - 'ea.com'
+  - '+.ea.com'
+  - '+.origin.com'
+  - '+.juno.ea.com'
+  - '+.tnt-ea.com'
+  - '+.gs.ea.com'
+  - '+.data.ea.com'
+  - '+.akamaized.net' #steam下载
+  - '+.akamaihd.net'
+  - '+.steamserver.net' #steam联网
+  - '+.arkoselabs.com' #ea
+  - '+.xboxlive.com' #xbox
+  - '+.gameservices.xboxlive.com' #xbox
+  - '+.ageofempires.com' #帝国
+  - '+.elgato.com'
+  - '+.2345.com'
+  - '+.ultramobile.com'
+  - 'adobe.com'
+  - '+.adobe.com'
+  - '+.ultramobile.com'

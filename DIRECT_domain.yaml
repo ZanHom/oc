@@ -253,6 +253,11 @@
   - 'teamviewer.cn'
   - '+.router.teamviewer.cn'
   - '+.rlb.router.teamviewer.cn'
-  - '.mozilla.com'
+  - '+.mozilla.com'
   - 'services.mozilla.com'
   - '+.services.mozilla.com'
+  - 'apkevery.com'
+  - '+.apkevery.com'
+  - '+.telemetry.mozilla.org'
+  - '+.mozilla.org'
+  

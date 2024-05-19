@@ -2,6 +2,7 @@
   - 'dldir1.qq.com'
   - 'h.trace.qq.com'
   - 'qq.com'
+  - 'snowflake.qq.com'
   - 'taobo.com'
   - '+.windows.net'
   - '+.163.com'
@@ -292,3 +293,4 @@
   - '+.cognitive.microsofttranslator.com'
   - '+.cdn.bcebos.com'
   - '+.safe.360.cn'
+  - 'crl.certum.pl'

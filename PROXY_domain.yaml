@@ -1,4 +1,11 @@
 ﻿payload:
+  - 'unpkg.com'
+  - '+.solarshipx.com'
+  - '+.cdn.snapcraftcontent.com'
+  - '+.snapcraft.io'
+  - '+.tuna.tsinghua.edu.cn'
+  - '+.aliyun.com'
+  - '+.jsdelivr.net'
   - '+.myip.com'
   - 'ip138.com'
   - '+.ip138.com'

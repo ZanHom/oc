@@ -1,4 +1,5 @@
 ﻿payload:
+  - '+.docker.io'
   - '+.githubusercontent.com'
   - 'unpkg.com'
   - '+.solarshipx.com'
